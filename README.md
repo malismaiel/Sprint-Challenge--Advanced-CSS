@@ -38,7 +38,7 @@ An adaptive website will adapt at specified media query breakpoints, and a fully
 
 2. Describe what it means to be mobile first vs desktop first.
 
-Mobile first means that the css is designed to load CSS for mobile first and load the desktop view only if the media query min or max width is triggered.
+Mobile first means that the css is designed to load CSS for mobile first, and load the desktop view only if the media query min or max width is triggered.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
